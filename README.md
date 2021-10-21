@@ -19,8 +19,8 @@ A timed code quiz which compares players score to their peers.
 
 ## Screenshots
 
-![Alt text](Assets/screenshots/index1.png)
-![Alt text](Assets/screenshots/score.png)
-![Alt text](Assets/screenshots/css.png)
-![Alt text](Assets/screenshots/scriptjs.png)
-![Alt text](Assets/screenshots/scorejs.png)
+![Alt text](assets/screenshots/index1.png)
+![Alt text](assets/screenshots/score.png)
+![Alt text](assets/screenshots/css.png)
+![Alt text](assets/screenshots/scriptjs.png)
+![Alt text](assets/screenshots/scorejs.png)
