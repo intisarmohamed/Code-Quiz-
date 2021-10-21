@@ -1,5 +1,8 @@
 # Code-Quiz-
 
+## Deplyed Link 
+https://intisarmohamed.github.io/Code-Quiz-/
+
 ## Overview
 
 A timed code quiz which compares players score to their peers.
