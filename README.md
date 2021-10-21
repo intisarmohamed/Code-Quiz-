@@ -19,8 +19,8 @@ A timed code quiz which compares players score to their peers.
 
 ## Screenshots
 
-![Alt text](/Users/intisarmohamed/coding_bootcamp/homeworks/Code-Quiz-/Assets/screenshots/index1.png)
-![Alt text](/Users/intisarmohamed/coding_bootcamp/homeworks/Code-Quiz-/Assets/screenshots/score.png)
-![Alt text](/Users/intisarmohamed/coding_bootcamp/homeworks/Code-Quiz-/Assets/screenshots/css.png)
-![Alt text](/Users/intisarmohamed/coding_bootcamp/homeworks/Code-Quiz-/Assets/screenshots/scriptjs.png)
-![Alt text](/Users/intisarmohamed/coding_bootcamp/homeworks/Code-Quiz-/Assets/screenshots/scorejs.png)
+![Alt text](Assets/screenshots/index1.png)
+![Alt text](Assets/screenshots/score.png)
+![Alt text](Assets/screenshots/css.png)
+![Alt text](Assets/screenshots/scriptjs.png)
+![Alt text](Assets/screenshots/scorejs.png)
